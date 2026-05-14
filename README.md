@@ -1,8 +1,8 @@
 # Olá, eu sou o Dilmer 👋
 
-🎓 Estudante de Ciência da Computação
-📚 Focado em Java e Python
-🚀 Criando projetos para evoluir minhas habilidades
+-🎓 Estudante de Ciência da Computação
+-📚 Focado em Java e Python
+-🚀 Criando projetos para evoluir minhas habilidades
 
 ## Tecnologias
 - HTML/CSS
