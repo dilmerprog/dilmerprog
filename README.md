@@ -13,8 +13,6 @@
 
 ## Projetos
 - Service Booking App
-- Exercícios de POO
-- Desafios em Java
 
 ## Objetivos
 Evoluir como desenvolvedor e criar aplicações reais.
