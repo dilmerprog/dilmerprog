@@ -1,7 +1,7 @@
 # Olá, eu sou o Dilmer 👋
 
-💻 Estudando desenvolvimento de software  
-📚 Focado em Java, Python e Android  
+🎓 Estudante de Ciência da Computação
+📚 Focado em Java e Python
 🚀 Criando projetos para evoluir minhas habilidades
 
 ## Tecnologias
