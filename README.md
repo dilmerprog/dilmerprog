@@ -5,6 +5,7 @@
 🚀 Criando projetos para evoluir minhas habilidades
 
 ## Tecnologias
+- HTML/CSS
 - Java
 - Python
 - Git e GitHub
