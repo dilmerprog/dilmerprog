@@ -5,14 +5,11 @@
 - 🚀 Criando projetos para evoluir minhas habilidades
 
 ## Tecnologias
-- HTML/CSS
-- Java
-- Python
-- Git e GitHub
-- Android Studio
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,figma,git,java,py,mysql)](https://skillicons.dev)
 
 ## Projetos
 - Service Booking App
 
 ## Objetivos
 Evoluir como desenvolvedor e criar aplicações reais.
+
